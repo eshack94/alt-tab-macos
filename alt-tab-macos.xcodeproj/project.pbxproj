@@ -64,6 +64,7 @@
 		D04BAC011A71E0418154F8CD /* Preferences.swift in Sources */ = {isa = PBXBuildFile; fileRef = D04BA9B93823398A542FF7A0 /* Preferences.swift */; };
 		D04BAC3169D54014CBA9ACE5 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = D04BAE7F55A4A3EC5F6D311A /* Localizable.strings */; };
 		D04BAC61DCCB79B5D436F022 /* app-icon.icns in Resources */ = {isa = PBXBuildFile; fileRef = D04BAE5D665680CB4B13CA26 /* app-icon.icns */; };
+		D04BAC8A7104E15C979EB745 /* CHANGELOG.html in Resources */ = {isa = PBXBuildFile; fileRef = D04BA426B8FA8BEC0D39499E /* CHANGELOG.html */; };
 		D04BACB583E379C81FD39810 /* setup_ci_pr.sh in Resources */ = {isa = PBXBuildFile; fileRef = D04BA2E723062A1DAC58618F /* setup_ci_pr.sh */; };
 		D04BACE5702CEB1819866875 /* menubar-icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D04BA399F1DF2C61FC2C9599 /* menubar-icon@2x.png */; };
 		D04BAD1BE9DC22C48C53D195 /* AboutTab.swift in Sources */ = {isa = PBXBuildFile; fileRef = D04BA4A26987F67DD94C827F /* AboutTab.swift */; };
@@ -119,6 +120,7 @@
 		D04BA32F25860B686DFE818A /* 3 windows - 1 line.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "3 windows - 1 line.jpg"; sourceTree = "<group>"; };
 		D04BA399F1DF2C61FC2C9599 /* menubar-icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "menubar-icon@2x.png"; sourceTree = "<group>"; };
 		D04BA4135D97F9E784709DA8 /* ko */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = ko; path = InfoPlist.strings; sourceTree = "<group>"; };
+		D04BA426B8FA8BEC0D39499E /* CHANGELOG.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = CHANGELOG.html; sourceTree = "<group>"; };
 		D04BA4336B6004A0A99849AD /* package.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = package.json; sourceTree = "<group>"; };
 		D04BA459034C1885CA43A807 /* LICENCE.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = LICENCE.md; sourceTree = "<group>"; };
 		D04BA47FF1B7838CF4814538 /* PreferencesWindow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PreferencesWindow.swift; sourceTree = "<group>"; };
@@ -301,6 +303,7 @@
 				D04BAA17F1B492591AAAA9A7 /* config */,
 				D04BA9CA03317B315B267E21 /* resources */,
 				D04BA075E359F36C27CD5BAE /* package-lock.json */,
+				D04BA426B8FA8BEC0D39499E /* CHANGELOG.html */,
 			);
 			sourceTree = "<group>";
 		};
@@ -716,6 +719,7 @@
 				D04BACB583E379C81FD39810 /* setup_ci_pr.sh in Resources */,
 				D04BA3B177082862776ADADF /* setup_ci_master.sh in Resources */,
 				D04BAEEE133C2CA8C8F4DE61 /* setup_local.sh in Resources */,
+				D04BAC8A7104E15C979EB745 /* CHANGELOG.html in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
